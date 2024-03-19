@@ -24,32 +24,30 @@ Our project repository hosts innovative solutions for inventory management, leve
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-[Uploading archid.drawio…]()
+![image](https://github.com/MervinR07/sec_cse_projectphase2/assets/163897355/7fc0475c-8f78-4f62-b03d-34bbcdd401f1)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Graphical representation of predicted sales
+![outputspe](https://github.com/MervinR07/sec_cse_projectphase2/assets/163897355/13c11456-b0fc-477c-a944-6d2b0439335c)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+
+#### Output1 - Graphical representation of predicted sales
+![Screenshot (3)](https://github.com/MervinR07/sec_cse_projectphase2/assets/163897355/b032d377-67a8-4b31-ad6c-a6a06ea51db6)
+
 
 #### Output2 - sales prediction based on price categories
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![spe2s](https://github.com/MervinR07/sec_cse_projectphase2/assets/163897355/77603399-023f-454c-998d-42e671795f30)
 
 Prediction Accuracy: 96.7%
-
-         
-        
-![image](https://github.com/MervinR07/sec_cse_projectphase2/assets/163897355/7fc0475c-8f78-4f62-b03d-34bbcdd401f1)
-
-
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
 The project achieved significant improvements in sales forecasting accuracy, aiding in better inventory management and resource allocation.By leveraging advanced machine learning techniques, the project demonstrated tangible benefits in operational efficiency and cost savings.
+
+This project colud be a game changer in real world business application and retail sector
 
 
 
